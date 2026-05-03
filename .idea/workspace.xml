@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d766e07-7ece-41a7-850d-b3bce871a252" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/TRPL UGM/SEM 4/PPPL/selenium-locators" value="3DDWio9a5I4oS3kYqECMgGZz1iZ" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="agent-panel" value="Gemini 3.1 Pro" />
+      <entry key="chat-panel" value="Gemini 3.1 Pro" />
+    </selectedModels>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3DDWio9a5I4oS3kYqECMgGZz1iZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "TestNG.NegativeLoginTest.executor": "Run",
+    "TestNG.NegativeLoginTest.test06_NegativeLogin_LockedOutUser_NameAndXPath.executor": "Run",
+    "TestNG.NegativeLoginTest.test07_NegativeLogin_LockedOutUser_XPathAxes.executor": "Run",
+    "TestNG.PositiveLoginTest.executor": "Run",
+    "TestNG.PositiveLoginTest.test01_PositiveLogin_NameLocator.executor": "Run",
+    "TestNG.PositiveLoginTest.test02_PositiveLogin_ClassLocator.executor": "Run",
+    "TestNG.PositiveLoginTest.test03_PositiveLogin_TagLocator.executor": "Run",
+    "TestNG.PositiveLoginTest.test04_PositiveLogin_XPathFunctions.executor": "Run",
+    "TestNG.PositiveLoginTest.test05_PositiveLogin_XPathAxes.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/TRPL UGM/SEM 4/PPPL/selenium-locators"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.NegativeLoginTest.test07_NegativeLogin_LockedOutUser_XPathAxes">
+    <configuration name="NegativeLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-locators" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.NegativeLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NegativeLoginTest.test06_NegativeLogin_LockedOutUser_NameAndXPath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-locators" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.NegativeLoginTest" />
+      <option name="METHOD_NAME" value="test06_NegativeLogin_LockedOutUser_NameAndXPath" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NegativeLoginTest.test07_NegativeLogin_LockedOutUser_XPathAxes" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-locators" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.NegativeLoginTest" />
+      <option name="METHOD_NAME" value="test07_NegativeLogin_LockedOutUser_XPathAxes" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-locators" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PositiveLoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PositiveLoginTest.test01_PositiveLogin_NameLocator" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="selenium-locators" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PositiveLoginTest" />
+      <option name="METHOD_NAME" value="test01_PositiveLogin_NameLocator" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.NegativeLoginTest.test07_NegativeLogin_LockedOutUser_XPathAxes" />
+        <item itemvalue="TestNG.NegativeLoginTest.test06_NegativeLogin_LockedOutUser_NameAndXPath" />
+        <item itemvalue="TestNG.NegativeLoginTest" />
+        <item itemvalue="TestNG.PositiveLoginTest" />
+        <item itemvalue="TestNG.PositiveLoginTest.test01_PositiveLogin_NameLocator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d766e07-7ece-41a7-850d-b3bce871a252" name="Changes" comment="" />
+      <created>1777817256869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777817256869</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

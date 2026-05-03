@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Selenium Locators - SauceDemo]" guice-stage="DEVELOPMENT" verbose="2">
+  <test thread-count="5" name="Positive Login - standard_user(failed)" verbose="2">
+    <classes>
+      <class name="tests.PositiveLoginTest">
+        <methods>
+          <include name="test01_PositiveLogin_NameLocator"/>
+          <include name="test02_PositiveLogin_ClassLocator"/>
+          <include name="test05_PositiveLogin_XPathAxes"/>
+          <include name="test03_PositiveLogin_TagLocator"/>
+          <include name="tearDown"/>
+          <include name="test04_PositiveLogin_XPathFunctions"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.PositiveLoginTest -->
+    </classes>
+  </test> <!-- Positive Login - standard_user(failed) -->
+  <test thread-count="5" name="Negative Login - locked_out_user(failed)" verbose="2">
+    <classes>
+      <class name="tests.NegativeLoginTest">
+        <methods>
+          <include name="test06_NegativeLogin_LockedOutUser_NameAndXPath"/>
+          <include name="test07_NegativeLogin_LockedOutUser_XPathAxes"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.NegativeLoginTest -->
+    </classes>
+  </test> <!-- Negative Login - locked_out_user(failed) -->
+</suite> <!-- Failed suite [Selenium Locators - SauceDemo] -->
